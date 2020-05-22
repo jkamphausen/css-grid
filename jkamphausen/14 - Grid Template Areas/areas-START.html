@@ -29,6 +29,12 @@
     .container {
       display: grid;
       grid-gap: 20px;
+      grid-template-columns: 1fr 500px 1fr;
+      grid-template-rows: 150px 150px 100;
+      grid-template-areas:
+        "sidebar-1 content sidebar-2"
+        "sidebar-1 content sidebar-2"
+        "footer footer footer"; 
     }
   </style>
 </body>
