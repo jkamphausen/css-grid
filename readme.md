@@ -39,10 +39,10 @@
 
 # jkamphausen
 
-- [ ] 02. [Starter Files and Tooling Setup](https://jsfiddle.net/6qvwur9q/)
-- [ ] 03. [CSS Grid Fundamentals](https://jsfiddle.net/qxxpgg4j/)
-- [ ] 04. [CSS Grid Dev Tools](https://jsfiddle.net/b55x8vh2/)
-- [ ] 05. [CSS Grid Implicit vs Explicit Tracks](https://jsfiddle.net/mon8xdgb/)
+- [X] 02. [Starter Files and Tooling Setup](https://jsfiddle.net/6qvwur9q/)
+- [X] 03. [CSS Grid Fundamentals](https://jsfiddle.net/qxxpgg4j/)
+- [X] 04. [CSS Grid Dev Tools](https://jsfiddle.net/b55x8vh2/)
+- [X] 05. [CSS Grid Implicit vs Explicit Tracks](https://jsfiddle.net/mon8xdgb/)
 - [ ] 06. [CSS grid-auto-flow Explained](https://jsfiddle.net/Loq4uj16/)
 - [ ] 07. [Sizing tracks in CSS Grid](https://jsfiddle.net/q8h3r8yb/)
 - [ ] 08. [CSS Grid repeat function](https://jsfiddle.net/8f8xyx86/)
